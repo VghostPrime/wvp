@@ -1,1 +1,1 @@
-u gay
+szopd ki 

@@ -69,12 +69,12 @@ dbody
 
 h1{
     text-align: center;
-    color : #009B77               ;
+    color : #777               ;
 
 }
 h2{
   text-align: center;
-  color : #009B77               ;
+  color : #777               ;
 
 }
 h3{
@@ -84,13 +84,19 @@ h3{
 }
 h4{
   text-align: center;
-  color : #009B77               ;
+  color : #777                ;
 
 }
 p{
   text-align: center;
-  color : #009B77               ;
+  color : #777            ;
 
+}
+
+hr{
+   clear:both;
+   margin:0;
+   margin: size 1px;
 }
 
 div#tartalom
